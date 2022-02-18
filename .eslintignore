@@ -1,0 +1,10 @@
+build/
+public/
+**/coverage/
+**/node_modules/
+**/*.min.js
+*.config.js
+.*lintrc.js
+src/components/Form.tsx
+src/App.tsx
+src/components/Results.tsx
